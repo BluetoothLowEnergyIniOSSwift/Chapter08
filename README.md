@@ -1,6 +1,6 @@
 # Bluetooth Low Energy in iOS Swift
 
-## Chapter 8: Write Data to a Peripheral
+## Chapter 8: Writing Data to a Peripheral
 
 
 These are **complete downloadable code examples** from my book, _Bluetooth Low Energy with iOS Swift_.  The book teaches how to make Bluetooth Low Energy devices using iOS/Swift.  
